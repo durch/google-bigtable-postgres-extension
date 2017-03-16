@@ -1,6 +1,6 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/durch/rpg_base36/blob/master/LICENSE.md)
 
-# Bulk of the functionality has been moved to [Rust PG FDW](https://github.com/durch/google-bigtable-postgres-fdw), and development will continue there.
+## Bulk of the functionality has been moved to [Rust PG FDW](https://github.com/durch/google-bigtable-postgres-fdw), and development will continue there.
 
 # Google Bigtable Rust PostgreSQL Extension
 
